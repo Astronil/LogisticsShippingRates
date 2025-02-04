@@ -1,4 +1,4 @@
-Please consider the below 
+Please consider the below before contributing.
 
 Code Style:
 Maintain a consistent code style for readability.
