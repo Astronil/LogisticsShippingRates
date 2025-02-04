@@ -1,4 +1,4 @@
-Please consider the below factors while 
+Please consider the below factors 
 
 Code Style:
 Maintain a consistent code style for readability.
